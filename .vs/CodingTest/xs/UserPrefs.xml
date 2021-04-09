@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{CC855D6B-EC9D-40BF-989B-7D9D62E2D8AC}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CodingTest" expanded="True">
+            <Node name="CodingTest" expanded="True">
+              <Node name="Nexon" expanded="True" />
+              <Node name="NYPC2020" expanded="True">
+                <Node name="MaximumIntervalTotal.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CodingTest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
