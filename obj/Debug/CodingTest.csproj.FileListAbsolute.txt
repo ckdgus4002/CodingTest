@@ -4,3 +4,9 @@
 /Users/lch/Documents/Github1/Github1-VisualStudio/CSharp/CodingTest/obj/Debug/CodingTest.exe
 /Users/lch/Documents/Github1/Github1-VisualStudio/CSharp/CodingTest/obj/Debug/CodingTest.pdb
 /Users/lch/Documents/Github1/Github1-VisualStudio/CSharp/CodingTest/obj/Debug/CodingTest.csprojAssemblyReference.cache
+/Users/lch/Documents/Github/CodingTest/bin/Debug/CodingTest.exe
+/Users/lch/Documents/Github/CodingTest/bin/Debug/CodingTest.pdb
+/Users/lch/Documents/Github/CodingTest/obj/Debug/CodingTest.csprojAssemblyReference.cache
+/Users/lch/Documents/Github/CodingTest/obj/Debug/CodingTest.csproj.CoreCompileInputs.cache
+/Users/lch/Documents/Github/CodingTest/obj/Debug/CodingTest.exe
+/Users/lch/Documents/Github/CodingTest/obj/Debug/CodingTest.pdb

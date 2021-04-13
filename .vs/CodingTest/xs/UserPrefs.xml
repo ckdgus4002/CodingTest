@@ -1,20 +1,30 @@
 ﻿<Properties StartupConfiguration="{CC855D6B-EC9D-40BF-989B-7D9D62E2D8AC}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="HackerRank/SockMerchant.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
-      <File FileName="HackerRank/SockMerchant.cs" Line="10" Column="1" />
+      <File FileName="Program.cs" Line="10" Column="10" />
+      <File FileName="Nexon/Reciprocal.cs" Line="73" Column="21" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="CodingTest" expanded="True">
             <Node name="CodingTest" expanded="True">
-              <Node name="HackerRank" expanded="True">
-                <Node name="SockMerchant.cs" selected="True" />
-              </Node>
+              <Node name="HackerRank" expanded="True" />
               <Node name="Nexon" expanded="True" />
               <Node name="NYPC2020" expanded="True" />
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>i</Value>
+          <Value>findLength</Value>
+          <Value>s.Length</Value>
+          <Value>remainLength</Value>
+          <Value>s.Substring(i, remainLength + 1)</Value>
+          <Value>b</Value>
         </State>
       </Pad>
     </Pads>
@@ -23,7 +33,9 @@
   <MonoDevelop.Ide.ItemProperties.CodingTest PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="/Users/lch/Documents/Github/CodingTest/Nexon/Reciprocal.cs" relfile="Nexon/Reciprocal.cs" line="86" column="29" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>

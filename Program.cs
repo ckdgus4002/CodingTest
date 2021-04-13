@@ -9,8 +9,6 @@ namespace LCH.CodingTest
         public static void Main(string[] args)
         {
             Console.WriteLine(DateTime.Now);
-
-            new MaximumIntervalTotal();
         }
     }
 }
