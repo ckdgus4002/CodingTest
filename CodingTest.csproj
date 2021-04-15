@@ -37,6 +37,7 @@
     <Compile Include="Program.cs" />
     <Compile Include="NYPC2020\MaximumIntervalTotal.cs" />
     <Compile Include="HackerRank\SockMerchant.cs" />
+    <Compile Include="HackerRank\Mini_MaxSum.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Nexon\" />

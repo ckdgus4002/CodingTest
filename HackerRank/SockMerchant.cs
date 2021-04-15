@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace CodingTest.HackerRank
+namespace LCH.CodingTest.HackerRank
 {
     public class SockMerchant
     {
