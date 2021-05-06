@@ -1,11 +1,12 @@
 ﻿using System;
 
-namespace LCH
+namespace Budget
 {
     class MainClass
     {
         public static void Main(string[] args)
         {
+            Console.WriteLine("Hello World!");
         }
     }
 }
