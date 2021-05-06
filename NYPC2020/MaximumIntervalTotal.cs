@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace LCH.CodingTest.NYPC2020
+namespace LCH
 {
     /// <source>
     /// https://nypc.github.io/2020/2020_online_1.html

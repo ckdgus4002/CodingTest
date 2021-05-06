@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Numerics;
 
-namespace LCH.CodingTest.Nexon
+namespace LCH
 {
     public class A_Number
     {

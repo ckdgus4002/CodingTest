@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace LCH.CodingTest.Nexon
+namespace LCH
 {
     public class Generator
     {

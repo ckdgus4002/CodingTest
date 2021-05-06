@@ -12,7 +12,7 @@ using System.Text.RegularExpressions;
 using System.Text;
 using System;
 
-namespace LCH.CodingTest.HackerRank
+namespace LCH
 {
     public class Mini_MaxSum
     {
