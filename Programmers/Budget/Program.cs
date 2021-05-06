@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Budget
+namespace LCH
 {
     class MainClass
     {
