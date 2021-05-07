@@ -7,7 +7,7 @@ namespace LCH
         public static void Main(string[] args)
         {
             Solution solution = new Solution();
-            Console.WriteLine(solution.solution(6));
+            Console.WriteLine(solution.solution(5000));
         }
     }
 }

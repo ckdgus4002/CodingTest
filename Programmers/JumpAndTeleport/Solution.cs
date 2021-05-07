@@ -4,9 +4,18 @@ class Solution
 {
     public int solution(int n)
     {
-        int teleport = (int)Math.Pow(2, (int)Math.Log(n, 2));
-        int answer = 1 + (n - teleport);
+        int answer = 0;
+        while (1 < n)
+        {
+            if (0 < n % 2)
+            {
+                answer++;
+                n--;
+            }
 
-        return answer;
+            n /= 2;
+        }
+
+        return answer + 1;
     }
 }
