@@ -5,20 +5,13 @@ public class Solution
 {
     public int solution(int[] A, int[] B)
     {
-        //int bMax = B.Max();
-        //Array.Sort(B);
+        Array.Sort(A, (a, b) => b.CompareTo(a));
+        Array.Sort(B, (a, b) => b.CompareTo(a));
+
         int answer = 0;
-        for (int i = 0; i < A.Length; i++)
+        foreach (int a in A)
         {
-            for (int j = 0; j < B.Length /*&& A[i] < bMax*/; j++)
-            {
-                if (0 < B[j] && A[i] < B[j])
-                {
-                    answer++;
-                    B[j] = 0;
-                    break;
-                }
-            }
+            if (a < B[answer]) answer++;
         }
 
         return answer;
