@@ -11,15 +11,16 @@ public class Solution
             sb.Append(n % 3);
             n /= 3;
         }
-        sb.Append(n);
         
+        if (0 < n) sb.Append(n);
+                
         int answer = 0;
         for (int i = 0; i < sb.Length; i++)
         {
             int add = (sb[i] - '0') * Pow(3, sb.Length - i - 1);
             answer += add;
         }
-
+    
         return answer;
     }
 
@@ -28,10 +29,7 @@ public class Solution
         int pow = 1;
         if (0 < y)
         {
-            for (int i = 0; i < y; i++)
-            {
-                pow *= x;
-            }
+            for (long i = 0; i < y; i++) pow *= x;
         }
 
         return pow;

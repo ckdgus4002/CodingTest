@@ -6,8 +6,9 @@ namespace LCH
     {
         static void Main(string[] args)
         {
+            Console.WriteLine(DateTime.Now);
             Solution solution = new Solution();
-            Console.WriteLine(solution.solution(45));
+            Console.WriteLine(solution.solution(2));
         }
     }
 }
