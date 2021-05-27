@@ -9,7 +9,7 @@ public class Solution
         while (2 <= n)
         {
             sb.Append(n % 3);
-            n = n / 3;
+            n /= 3;
         }
         sb.Append(n);
         
@@ -25,16 +25,15 @@ public class Solution
 
     private int Pow(int x, int y)
     {
-        int _return = 1;
-
+        int pow = 1;
         if (0 < y)
         {
             for (int i = 0; i < y; i++)
             {
-                _return *= x;
+                pow *= x;
             }
         }
 
-        return _return;
+        return pow;
     }
 }
