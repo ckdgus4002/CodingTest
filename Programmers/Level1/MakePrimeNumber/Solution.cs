@@ -27,9 +27,7 @@ class Solution
         return answer;
     }
 
-
-
-    public bool IsPrimeNumber(int number)
+    private bool IsPrimeNumber(int number)
     {
         if (number == 2 || number == 3)
         {
